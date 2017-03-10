@@ -33,7 +33,6 @@ int main(void) {
 	printf("bit 7 : %d\n",printerStatus.accress.bit7);
 	printf("bit 8 : %d\n",printerStatus.accress.bit8);
 
-
 	/*
 	printf("bit 1 : %d\n",printerStatus.bit1);
 	printf("bit 2 : %d\n",printerStatus.bit2);
